@@ -1,2 +1,3 @@
 # python
-Simple python2 scripts
+
+Simple python3 scripts
