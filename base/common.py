@@ -12,10 +12,10 @@ for num in range(1, 21):
 	else:
 		print(num)
 
-"""
+
 # Fibonacci Seq
 a, b = 0, 1
 for i in range(1, 11):
 	a, b = b, a+b
 	print(i , ":" , a)
-"""
+
