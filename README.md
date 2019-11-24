@@ -2,6 +2,9 @@
 Simple python3 scripts. Learning how to use git.
 
 # Subdirectories
+* /AI
+<br/> Elementary neural networks.
+
 * /base
 <br/> Base python code samples.
 
