@@ -8,7 +8,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Perceptron.svg/1280px-
 ![alt text](/AI/perceptron_training_data.png)
 
 ## Results
-Output of [__table_print.py__](python/AI/table_print.py)
+Output of [__table_print.py__](https://github.com/George2Times/python/blob/master/AI/table_print.py)
 
 <p style='color:red'>Column Inputs and Expected Outputs consisit training data.</p>
 <p style='color:blue'>Words <before/after> means before/after training</p>
@@ -35,15 +35,15 @@ Process finished with exit code 0
 
 
 ## Files
-- [__perceptron.py__](python/AI/perceptron.py)
-- [__perceptron_main.py__](/python/AI/perceptron_main.py)  
-- [__table_print.py__](python/AI/table_print.py)
+- [__perceptron.py__](https://github.com/George2Times/python/blob/master/AI/perceptron.py)
+- [__perceptron_main.py__](https://github.com/George2Times/python/blob/master/AI/perceptron_main.py)  
+- [__table_print.py__](https://github.com/George2Times/python/blob/master/AI/table_print.py)
 
 ## See also
 
-[Wiki: Perceptron](https://www.wikiwand.com/en/Perceptron#)
-[Wiki: Comparison of activation functions](https://www.wikiwand.com/en/Activation_function#/Comparison_of_activation_functions)
+[Wiki: Perceptron](https://www.wikiwand.com/en/Perceptron#)  
+[Wiki: Comparison of activation functions](https://www.wikiwand.com/en/Activation_function#/Comparison_of_activation_functions)  
 
-[How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
+[How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)  
 [A Neural Network in 11 lines of Python (Part 1)](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 
