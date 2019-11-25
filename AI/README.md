@@ -5,7 +5,7 @@ Implementation of (3-bit input / 1-bit output / 1-layer) neural network.
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Perceptron.svg/1280px-Perceptron.svg.png
 )
 
-![alt text](/AI/perceptron_training_data.png)
+![alt text](https://github.com/George2Times/python/blob/master/AI/perceptron_training_data.png)
 
 ## Results
 Output of [__table_print.py__](https://github.com/George2Times/python/blob/master/AI/table_print.py)

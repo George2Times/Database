@@ -2,7 +2,7 @@
 GUI form to modify database
 
 ![alt text](
-resources/db_table_manager.png
+https://github.com/George2Times/python/resources/db_table_manager.png
 )
 
 
