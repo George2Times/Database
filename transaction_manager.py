@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox, StringVar, Label, Entry, Listbox, Scrollbar, Button
 
 # from db import Database
-from DB.db import Database
+from db import Database
 
 
 class Application(tk.Frame):

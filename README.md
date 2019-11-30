@@ -1,39 +1,13 @@
-# python
-Simple python3 scripts. Learning how to use git.
+# Database Table Manager 
+GUI form to modify database
 
-# Subdirectories
-* /base
-<br/> Base python code samples.
-
-* /Tkinter
-<br/> Simple Tkinter apps.  
-[L] helloTkinter  [R] simple_calculator  
-![helloTkinter](images/helloTkinter.png) ![simple_calculator](images/simple_calculator.png)
-
-* /DB
-<br/> Database with python  
-Table manager  
 ![alt text](images/db_table_manager.png)
 
-<!--- Block comment
-[//]: # (This is a comment, it will not be included)
-I think you should use an
-`<addr>` element here instead.
 
-    function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-)
-
--->
+## Files
+- [__db.py__](db.py)  
+Generate table TRANSACTION in store.db with python3 (sqlite3)
+- [__transaction_manager.py__](transaction_manager.py)  
+Python3 form to modify data in store.db
+- [__store.db__](store.db)  
+Database file
