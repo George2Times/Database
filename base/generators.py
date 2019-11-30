@@ -1,12 +1,9 @@
 #! /usr/bin/python
 
-"""
-# Fibonacci Seq
-a, b = 0, 1
-for i in range(1, 11):
-	a, b = b, a+b
-	print(i , ":" , a)
-"""
+
+def main():
+	for item in fib(10):
+		print(item)
 
 
 # Fibonacci Generator
@@ -17,5 +14,5 @@ def fib(num):
 		a, b = b, a + b
 
 
-for item in fib(10):
-	print(item)
+if __name__ == '__main__':
+	main()

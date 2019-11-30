@@ -1,9 +1,7 @@
 # Database Table Manager 
 GUI form to modify database
 
-![alt text](
-https://github.com/George2Times/python/resources/db_table_manager.png
-)
+![alt text](../images/db_table_manager.png)
 
 
 ## Files

@@ -1,6 +1,14 @@
 #! /usr/bin/python
 
 
+def main():
+	corney = Person('Corney')
+	corney.reveal_identity()
+
+	wade = SuperHero('Wade Wilson', 'Deadpool')
+	wade.reveal_identity()
+
+
 class Person(object):
 	def __init__(self, name):
 		self.name = name
@@ -19,8 +27,5 @@ class SuperHero(Person):
 		print("...And I am {}".format(self.hero_name))
 
 
-corney = Person('Corney')
-corney.reveal_identity()
-
-wade = SuperHero('Wade Wilson', 'Deadpool')
-wade.reveal_identity()
+if __name__ == '__main__':
+	main()

@@ -1,11 +1,11 @@
 # Simple Tkinter
 
 - helloTkinter  
-![helloTkinter](
-https://github.com/George2Times/python/resources/helloTkinter.png
-) 
+<img src="../images/helloTkinter.png" >
+<!--
+<img src="../images/helloTkinter.png" width="100" height="100">
+-->
+
 - simpleCalculator  
-![simple_calculator](
-https://github.com/George2Times/python/resources/simple_calculator.png
-)
+![simple_calculator](../images/simple_calculator.png)
 - others  

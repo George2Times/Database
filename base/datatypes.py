@@ -1,26 +1,25 @@
 #! /usr/bin/python
 
-# List
-print("List")
-my_list = [10, 20, 30, 40, 50]
-for i in my_list:
-	print(i)
 
-# Tuple
-print("Tuple")
-my_tup = (1, 2, 3, 4, 5, 6)
-for i in my_tup:
-	print(i)
+def main():
+	# List
+	my_list = [10, 20, 30, 40, 50]
+	print("List", my_list)
 
-# Dict
-print("Dict")
-my_dict = {'name': 'Bronx', 'age': '2', 'occupation': "Corey's Dog"}
-for key,val in my_dict.items():
-	print("My {} is {}".format(key,val))
+	# Tuple
+	my_tup = (1, 2, 3, 4, 5, 6)
+	print("Tuple", my_tup)
 
-# Set
-print("Set")
-my_set = {10, 20, 30, 40, 50, 20, 30, 30, 40, 20}
-for i in my_set:
-	print(i)
+	# Dict
+	my_dict = {'name': 'Bronx', 'age': '2', 'occupation': "Corey's Dog"}
+	print("Dict", my_dict)
+	for key, val in my_dict.items():
+		print("My {} is {}".format(key, val))
 
+	# Set
+	my_set = {10, 20, 30, 40, 50, 20, 30, 30, 40, 20}
+	print("Set", my_set)
+
+
+if __name__ == '__main__':
+	main()

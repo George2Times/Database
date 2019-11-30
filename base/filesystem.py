@@ -1,8 +1,15 @@
 #! /usr/bin/python
-import os, glob
+import os
+import glob
 
-path = os.getcwd()
 
-os.chdir( path )
-for file in glob.glob("*.py"):
-    print(file)
+def main():
+    path = os.getcwd()
+
+    os.chdir(path)
+    for file in glob.glob("*.py"):
+        print(file)
+
+
+if __name__ == '__main__':
+    main()

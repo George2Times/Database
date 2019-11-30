@@ -8,12 +8,12 @@ Simple python3 scripts. Learning how to use git.
 * /Tkinter
 <br/> Simple Tkinter apps.  
 [L] helloTkinter  [R] simple_calculator  
-![helloTkinter](https://github.com/George2Times/python/resources/helloTkinter.png) ![simple_calculator](https://github.com/George2Times/python/resources/simple_calculator.png)
+![helloTkinter](images/helloTkinter.png) ![simple_calculator](images/simple_calculator.png)
 
 * /DB
 <br/> Database with python  
 Table manager  
-![alt text](https://github.com/George2Times/python/resources/db_table_manager.png)
+![alt text](images/db_table_manager.png)
 
 <!--- Block comment
 [//]: # (This is a comment, it will not be included)
