@@ -1,6 +1,8 @@
+# Database Table Manager  
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6d09f275b76465a92f509c012f5fa29)](https://www.codacy.com/manual/George2Times/Database?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=George2Times/Database&amp;utm_campaign=Badge_Grade)  
-# Database Table Manager 
-GUI form to modify database
+
+GUI form to modify database  
 
 ![alt text](images/db_table_manager.png)
 
